@@ -4,9 +4,9 @@ Lista de exercícios do módulo 1 do curso Dev Full Stack Jr. da MaisPraTI e Cod
 
 ### Requisitos e Dependências
 
-1. É necessário estar instalado no computador o Node.js
-2. Clone o repositório para o seu computador com `git clone `
-3. Entre na pasta do repositório com `cd `
+1. É necessário a instalação do Node.js
+2. Clone o repositório para o seu computador com `git clone https://github.com/Govaski/Codifica-Modulo-01-Lista-01.git`
+3. Entre na pasta do repositório com `cd Codifica-Modulo-01-Lista-01`
 4. Execute no terminal `npm install` para instalar as dependências
 
 ### Execução
